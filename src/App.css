@@ -31,3 +31,22 @@
     transform: rotate(360deg);
   }
 }
+
+.homePage {
+  width: auto;
+  height: 500px;
+  background-color: darkgrey;
+}
+
+.candidates {
+  width: auto;
+  height: auto;
+  background-color: deepskyblue;
+}
+
+.navBar {
+  width: auto;
+  height: 100px;
+  background-color: darkgrey;
+}
+
